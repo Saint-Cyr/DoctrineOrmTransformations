@@ -1,0 +1,3 @@
+saint_cyr_doctrine_orm_transformations_homepage:
+    path:     /
+    defaults: { _controller: SaintCyrDoctrineOrmTransformationsBundle:Default:index }

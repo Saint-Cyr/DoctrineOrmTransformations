@@ -1,0 +1,4 @@
+services:
+#    saint_cyr_doctrine_orm_transformations.example:
+#        class: SaintCyr\DoctrineOrmTransformationsBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
